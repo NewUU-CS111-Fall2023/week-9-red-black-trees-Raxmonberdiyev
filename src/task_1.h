@@ -1,5 +1,0 @@
-/*
- * Author: Raximberdi
- * Date:
- * Name:
- */
