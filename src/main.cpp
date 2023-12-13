@@ -8,7 +8,7 @@
 #include "task_1.h"
 
 int main() {
-    std::cout << "Task 1" << std::endl;
+    std::cout << "Task 2" << std::endl;
     // call for task 1
     std::cout << "Task 2" << std::endl;
     // call for task 2
